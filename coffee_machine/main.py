@@ -1,0 +1,1 @@
+customer_choice = input('What would you like (latte/cuppaccino/espresso?\n')
